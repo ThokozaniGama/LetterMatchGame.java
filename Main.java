@@ -1,6 +1,5 @@
 /*
 Developed by Thokozani Gama
-tkgama98@gmail.com | WhatsApp/Calls: 0747596889
 
 Pseudocode:
 This programs asks the user to enter the junk input.
